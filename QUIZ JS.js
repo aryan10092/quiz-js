@@ -1,18 +1,18 @@
 const quizData = [{
-    question: "Which of the following is a client site language?",
-    a: "Java",
-    b: "C",
-    c: "Python",
-    d: "JavaScript",
+    question: "Which of the following is a primary organ of the female reproductive system?"
+    a: "vagina",
+    b: "penis",
+    c: "testes",
+    d: "ovary",
     correct: "d",
 },
 {
-    question: "What does HTML stand for?",
-    a: "Hypertext Markup Language",
-    b: "Cascading Style Sheet",
-    c: "Jason Object Notation",
-    d: "Helicopters Terminals Motorboats Lamborginis",
-    correct: "a",
+    question: "In the female reproductive organ, the foetus develops in _______"
+    a: "ovary",
+    b: "vagina",
+    c: "uterus",
+    d: "none",
+    correct: "c",
 },
 {
     question: "my dad's name is",
